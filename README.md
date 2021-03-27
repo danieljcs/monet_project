@@ -22,3 +22,9 @@ http://localhost:8000/admin/ #para acceder al admin proporcionado por django
 http://localhost:8000/get_data_controles/ #url de la api para consultar los datos de las tablas
 ```
 
+para leer el archivo txt ubicado en la carpeta static se ultiliza el comando
+
+```python
+#el comando carga los registros en la base de datos
+> python manage.py leer_archivo
+```
