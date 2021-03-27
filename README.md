@@ -1,6 +1,6 @@
 # Monet Project
 
-proyecto creaco para prueba tecnica solicitada por la empresa FINTECH.
+proyecto creado para prueba tecnica solicitada por la empresa FINTECH.
 
 ## Instalacion
 
