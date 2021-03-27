@@ -12,7 +12,7 @@ VIRTUALENV
 > pip install -r requirements.txt
 > python manage.py runserver
 DOCKER
-docker-compose up
+> docker-compose up
 ```
 
 ## Uso
